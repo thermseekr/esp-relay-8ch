@@ -5,9 +5,9 @@
   (paper "A3")
 
   (title_block
-    (title "ESP 6x 24VDC Input 6x Relay Output Module")
-    (date "2022-10-09")
-    (rev "V3")
+    (title "ESP 8x 24VDC Input 8x Relay Output Module")
+    (date "2022-10-10")
+    (rev "V1")
   )
 
   (lib_symbols
