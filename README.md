@@ -1,6 +1,6 @@
 # ESP-relay-8ch
 
-ESP32 based board with 8x 24 VDC inputs and 8x 10A relay outputs. The actual relays used in the design are rated 16A, but the track capacity limits each output to a lower value of 10A.
+ESP32 based board with 8x 24 VDC inputs and 8x 10A relay outputs.
 
 This board is designed to be driven by an Olimex ESP32-POE or ESP32-POE-ISO modules running Tasmota.
 
